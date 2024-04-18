@@ -3,7 +3,7 @@
 <h3 align="center">Je suis Étudiant en BUT Informatique en Alternance à Sophia-Antipolis.</h3>
 </br>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" style="border-radius:20%"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" style="border-radius:50%"/>
 
 - 🔭 Je travail sur un projet d'application Flutter [Reflex App](####################)
 
