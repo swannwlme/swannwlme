@@ -13,7 +13,7 @@
 
 - 📫 Me contacter **swannwilliame@gmail.com**
 
-<center><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swannwlme&show_icons=true&locale=en" alt="swannwlme" /></p></center>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swannwlme&show_icons=true&locale=en" alt="swannwlme" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
