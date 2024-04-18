@@ -86,6 +86,4 @@
 <a href="https://www.youtube.com/c/swann7343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swann7343" height="30" width="40" /></a>
 </p>
 
-</br>
-
 <img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/assets/Bottom.svg?raw=true" width="100%"/>
