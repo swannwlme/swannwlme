@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=swannwlme&label=Profile%20views&color=0e75b6&style=flat" alt="swannwlme" /> </p>
 <h1 align="center">Hi 👋, I'm  <a href="https://github.com/swannwlme">Swann</a> 🧑🏻‍💻</h1>
-<h3 align="center">I am a BUT Computer Science Work-Study Student in Sophia-Antipolis.</h3>
+<h3 align="center">I am a French BUT Computer Science Work-Study Student in Sophia-Antipolis.</h3>
 </br>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" style="border-radius:50%"/>
