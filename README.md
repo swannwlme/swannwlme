@@ -3,7 +3,7 @@
 <h3 align="center">I am a French BUT Computer Science Work-Study Student in Sophia-Antipolis.</h3>
 </br>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" style="border-radius:50%"/>
+  <img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/assets/code.gif?raw=true" width="300" style="border-radius:50%"/>
 
 - 🔭 I'm currently working on a Flutter app project [Reflex App](####################)
 
@@ -86,3 +86,6 @@
 <a href="https://www.youtube.com/c/swann7343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swann7343" height="30" width="40" /></a>
 </p>
 
+</br>
+
+<img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/assets/code.gif?raw=true" width="100%"/>
