@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=swannwlme&label=Profile%20views&color=0e75b6&style=flat" alt="swannwlme" /> </p>
-<h1 align="center">Hi 👋, I'm [Swann](https://github.com/swannwlme) 🧑🏻‍💻</h1>
+<h1 align="center">Hi 👋, I'm  <a href="https://github.com/swannwlme">Swann</a>🧑🏻‍💻</h1>
 <h3 align="center">I am a BUT Computer Science Work-Study Student in Sophia-Antipolis.</h3>
 </br>
 
