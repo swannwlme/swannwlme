@@ -3,7 +3,7 @@
 <h3 align="center">I am a French BUT Computer Science Work-Study Student in Sophia-Antipolis.</h3>
 </br>
 
-  <img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/output-onlinegiftools.gif?raw=true" width="300" style="border-radius:50%"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" style="border-radius:50%"/>
 
 - 🔭 I'm currently working on a Flutter app project [Reflex App](####################)
 
