@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swannwlme&label=Profile%20views&color=0e75b6&style=flat" alt="swannwlme" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swannwlme" alt="swannwlme" /></a> </p>
-
 - 🔭 Je travail sur un projet d'application Flutter [Reflex App](####################)
 
 - 🌱 J'apprends actuellement : **Java, Javascript, Unity & C#, Node JS**
