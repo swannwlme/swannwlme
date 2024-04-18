@@ -31,8 +31,8 @@
 
 </br>
 
+<h3 align="right">Connect with me:</h3>
 <p align="right">
-<h3>Connect with me:</h3>
 <a href="https://stackoverflow.com/users/14401820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14401820" height="30" width="40" /></a>
 <a href="https://instagram.com/swann.wlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swann.wlm" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/swann7343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swann7343" height="30" width="40" /></a>
