@@ -1,19 +1,19 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=swannwlme&label=Profile%20views&color=0e75b6&style=flat" alt="swannwlme" /> </p>
-<h1 align="center">Hi 👋, I'm Swann Williame</h1>
-<h3 align="center">Je suis Étudiant en BUT Informatique en Alternance à Sophia-Antipolis.</h3>
+<h1 align="center">Hi 👋, I'm [Swann](https://github.com/swannwlme) 🧑🏻‍💻</h1>
+<h3 align="center">I am a BUT Computer Science Work-Study Student in Sophia-Antipolis.</h3>
 </br>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" style="border-radius:50%"/>
 
-- 🔭 Je travail sur un projet d'application Flutter [Reflex App](####################)
+- 🔭 I'm currently working on a Flutter app project [Reflex App](####################)
 
-- 🌱 J'apprends actuellement : **Java, Javascript, Unity & C#, Node JS**
+- 🌱 I am currently learning : **Java, Javascript, Unity & C#, Node JS**
 
-- 💻 Je travail aussi sur un jeu vidéo [Kakou Quest](https://github.com/Hc-Sky/SAE-Rogue-Like)
+- 💻 I'm also working on a video game [Kakou Quest](https://github.com/Hc-Sky/SAE-Rogue-Like)
 
 - 💬 Ask me about **Flutter, Python**
 
-- 📫 Me contacter **swannwilliame@gmail.com**
+- 📫 Contact me **swannwilliame@gmail.com**
 
 </br>
 </br>
