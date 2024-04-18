@@ -18,7 +18,7 @@
 </br>
 </br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swannwlme&show_icons=true&locale=en" alt="swannwlme" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swannwlme&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="swannwlme" /></p>
 
 </br>
 
@@ -73,7 +73,7 @@
 
 </br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swannwlme&" alt="swannwlme" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swannwlme&theme=tokyonight&hide_border=false" alt="swannwlme" /></p>
 
 </br>
 
