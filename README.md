@@ -88,4 +88,4 @@
 
 </br>
 
-<img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/assets/code.gif?raw=true" width="100%"/>
+<img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/assets/Bottom.svg?raw=true" width="100%"/>
