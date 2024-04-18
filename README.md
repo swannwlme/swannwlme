@@ -3,9 +3,9 @@
 <h3 align="center">Je suis Étudiant en BUT Informatique en Alternance à Sophia-Antipolis.</h3>
 </br>
 
-- 🔭 Je travail sur un projet d'application Flutter [Reflex App](####################)
-
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300"/>
+
+- 🔭 Je travail sur un projet d'application Flutter [Reflex App](####################)
 
 - 🌱 J'apprends actuellement : **Java, Javascript, Unity & C#, Node JS**
 
