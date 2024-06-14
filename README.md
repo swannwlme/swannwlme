@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter, Python**
 
-- 📫 Contact me **swann.williame@gmail.com**
+- 📫 Contact me [swann.williame@gmail.com](mailto:swann.williame@gmail.com)
 
 </br>
 </br>
