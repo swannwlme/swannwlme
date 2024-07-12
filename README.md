@@ -81,7 +81,6 @@
 <p align="right">
 <a href="https://stackoverflow.com/users/14401820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14401820" height="30" width="40" /></a>
 <a href="https://instagram.com/swann.wlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swann.wlm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/swann7343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swann7343" height="30" width="40" /></a>
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/assets/Bottom.svg?raw=true" width="100%"/>
