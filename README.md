@@ -83,4 +83,4 @@
 <a href="https://instagram.com/swann.wlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swann.wlm" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/assets/Bottom.svg?raw=true" width="100%"/>
+<img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/assets/Bottom.svg?raw=true" width="300%"/>
