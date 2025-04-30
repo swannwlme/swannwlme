@@ -73,7 +73,7 @@
 </br>
 </br>
 
-![swannwlme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swannwlme&theme=vue-dark&hide_border=true)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swannwlme&theme=vue-dark&hide_border=false" alt="swannwlme" /></p>
 
 </br>
 
